@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=l\ p\ i\ sk\ sp\ d
+comment0.target=Monster(double,\ double,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=Stat\ getLif()
+comment2.params=
+comment2.target=Stat\ getPow()
+comment3.params=
+comment3.target=Stat\ getInt()
+comment4.params=
+comment4.target=Stat\ getSki()
+comment5.params=
+comment5.target=Stat\ getSpd()
+comment6.params=
+comment6.target=Stat\ getDef()
+comment7.params=l\ p\ i\ sk\ sp\ d
+comment7.target=void\ setStats(double,\ double,\ double,\ double,\ double,\ double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

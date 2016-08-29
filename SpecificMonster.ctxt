@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l\ p\ i\ sk\ sp\ d\ mults
+comment0.target=SpecificMonster(double,\ double,\ double,\ double,\ double,\ double,\ double[])
+comment1.params=
+comment1.target=void\ correctStats()
+comment2.params=
+comment2.target=void\ printCorrectStats()
+numComments=3
